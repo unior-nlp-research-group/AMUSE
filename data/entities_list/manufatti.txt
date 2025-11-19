@@ -1,0 +1,390 @@
+metalli.not	fuso/<manufatto>	
+metalli.not	fuso con decorazione/<manufatto>	
+metalli.not	fuso con decorazione incisa/<manufatto>	
+metalli.not	base/<manufatto>	
+metalli.not	base Piatta/<manufatto>	
+metalli.not	base piatta/<manufatto>	
+metalli.not	base esagonale/<manufatto>	
+metalli.not	base esagonale su tre/<manufatto>	
+metalli.not	coperchio/<manufatto>	
+metalli.not	coperchio a cupola/<manufatto>	
+metalli.not	base applicato/<manufatto>	
+metalli.not	Mortaio/<manufatto>	
+metalli.not	mortaio/<manufatto>	
+metalli.not	anello/<manufatto>	
+metalli.not	anello tortile/<manufatto>	
+metalli.not	protomi/<manufatto>	
+metalli.not	protomi antropomorfe/<manufatto>	
+metalli.not	Mortaio monoansato/<manufatto>	
+metalli.not	rilievo/<manufatto>	
+metalli.not	protome/<manufatto>	
+metalli.not	protome zoomorfa/<manufatto>	
+metalli.not	fuso con decorazione intagliata/<manufatto>	
+metalli.not	scodella/<manufatto>	
+metalli.not	base ad anello/<manufatto>	
+metalli.not	Cucchiaio/<manufatto>	
+metalli.not	cucchiaio/<manufatto>	
+metalli.not	paletta/<manufatto>	
+metalli.not	paletta concava/<manufatto>	
+metalli.not	Frammento di specchio/<parte><manufatto>	
+metalli.not	specchio/<manufatto>	
+metalli.not	fuso con decorazione stampata/<manufatto>	
+metalli.not	Specchio/<manufatto>	
+metalli.not	Specchio di forma/<manufatto>	
+metalli.not	Specchio di forma circolare/<manufatto>	
+metalli.not	stampo/<manufatto>	
+metalli.not	stampo in leggero/<manufatto>	
+metalli.not	stampo in leggero rilievo/<manufatto>	
+metalli.not	stampo in/<manufatto>	
+metalli.not	base di numerosi esemplari/<manufatto>	
+metalli.not	base di numerosi esemplari simili/<manufatto>	
+metalli.not	cornice/<manufatto>	
+metalli.not	cornice circolare/<manufatto>	
+metalli.not	cornice esterna/<manufatto>	
+metalli.not	Rubinetto/<manufatto>	
+metalli.not	Rubinetto di fontana/<manufatto>	
+metalli.not	fontana/<manufatto>	
+metalli.not	Rubinetto composto/<manufatto>	
+metalli.not	Rubinetto composto di due/<manufatto>	
+metalli.not	Rubinetto composto di due parti/<manufatto>	
+metalli.not	protome leonina/<manufatto>	
+metalli.not	Coppa/<manufatto>	
+metalli.not	Coppa con corpo/<manufatto>	
+metalli.not	rocchetto/<manufatto>	
+metalli.not	coppa/<manufatto>	
+metalli.not	anello strombato/<manufatto>	
+metalli.not	anello strombato terminante/<manufatto>	
+metalli.not	candelieri/<manufatto>	
+metalli.not	base strombata/<manufatto>	
+metalli.not	base strombata con bordo/<manufatto>	
+metalli.not	base strombata con bordo verticale/<manufatto>	
+metalli.not	cerniere/<manufatto>	
+metalli.not	cerniere inchiodate/<manufatto>	
+porcellana.not	Piatto/<manufatto>	
+porcellana.not	Piatto a larga tesa/<manufatto>	
+porcellana.not	Piatto a larga tesa lobata/<manufatto>	
+porcellana.not	Piatto ad ampia tesa/<manufatto>	
+porcellana.not	Piatto ad ampia tesa lobata/<manufatto>	
+porcellana.not	geometrici/<manufatto>	
+porcellana.not	Piatto a parete/<manufatto>	
+porcellana.not	Piatto a parete ricurva/<manufatto>	
+porcellana.not	specchio d'acqua/<manufatto>	
+porcellana.not	nastri/<manufatto>	
+porcellana.not	piatto/<manufatto>	
+porcellana.not	geometrico/<manufatto>	
+porcellana.not	geometrico a petali/<manufatto>	
+porcellana.not	scettro/<manufatto>	
+porcellana.not	geometrico a meandri/<manufatto>	
+porcellana.not	geometrici con circoli/<manufatto>	
+porcellana.not	Bottiglia/<manufatto>	
+porcellana.not	Bottiglia piriforme/<manufatto>	
+porcellana.not	Bottiglia piriforme con piede/<manufatto>	
+porcellana.not	Bottiglia ad alto/<manufatto>	
+porcellana.not	Bottiglia ad alto collo/<manufatto>	
+porcellana.not	bottiglia/<manufatto>	
+porcellana.not	bottiglia apoda/<manufatto>	
+porcellana.not	testa/<manufatto>	
+porcellana.not	recipiente/<manufatto>	
+porcellana.not	coperchio bombato/<manufatto>	
+porcellana.not	catena/<manufatto>	
+porcellana.not	catena che/<manufatto>	
+reperti.not	orlo di vaso/<parte><manufatto>	
+reperti.not	vaso/<manufatto>	
+reperti.not	orlo di ciotola/<parte><manufatto>	
+reperti.not	orlo di ciotola con superfici/<parte><manufatto>	
+reperti.not	orlo di ciotola con superfici lisciate/<parte><manufatto>	
+reperti.not	orlo di ciotola con superfici lisciate marroni/<parte><manufatto>	
+reperti.not	ciotola/<manufatto>	
+reperti.not	ciotola con superfici/<manufatto>	
+reperti.not	ciotola con superfici lisciate/<manufatto>	
+reperti.not	ciotola con superfici lisciate marroni/<manufatto>	
+reperti.not	punte/<manufatto>	
+reperti.not	orlo di coppa/<parte><manufatto>	
+reperti.not	orlo di coppa con superfici/<parte><manufatto>	
+reperti.not	orlo di coppa con superfici lisciate/<parte><manufatto>	
+reperti.not	orlo di coppa con superfici lisciate marroni/<parte><manufatto>	
+reperti.not	coppa con superfici/<manufatto>	
+reperti.not	coppa con superfici lisciate/<manufatto>	
+reperti.not	coppa con superfici lisciate marroni/<manufatto>	
+reperti.not	Gruppo del Gash/gruppo>	
+reperti.not	orlo di coppa con superfici arancio/<parte><manufatto>	
+reperti.not	orlo di coppa con superfici arancio graffiate/<parte><manufatto>	
+reperti.not	coppa con superfici arancio/<manufatto>	
+reperti.not	coppa con superfici arancio graffiate/<manufatto>	
+reperti.not	fiasca/<manufatto>	
+reperti.not	spalla di fiasca/<parte><manufatto>	
+reperti.not	spalla di fiasca con superficie/<parte><manufatto>	
+reperti.not	spalla di fiasca con superficie arancio/<parte><manufatto>	
+reperti.not	fiasca con superficie/<manufatto>	
+reperti.not	fiasca con superficie arancio/<manufatto>	
+reperti.not	orlo di coppa con superficie/<parte><manufatto>	
+reperti.not	orlo di coppa con superficie marrone/<parte><manufatto>	
+reperti.not	orlo di coppa con superficie marrone lisciata/<parte><manufatto>	
+reperti.not	coppa con superficie/<manufatto>	
+reperti.not	coppa con superficie marrone/<manufatto>	
+reperti.not	coppa con superficie marrone lisciata/<manufatto>	
+reperti.not	pettine/<manufatto>	
+reperti.not	pettine oblique/<manufatto>	
+reperti.not	pettine oblique sotto l/<manufatto>	
+reperti.not	pendenti/<manufatto>	
+reperti.not	pendenti sotto l/<manufatto>	
+reperti.not	punte a sezione/<manufatto>	
+reperti.not	punte a sezione triangolare/<manufatto>	
+reperti.not	orlo di coppa con superficie grigia/<parte><manufatto>	
+reperti.not	orlo di coppa con superficie grigia lucidata/<parte><manufatto>	
+reperti.not	coppa con superficie grigia/<manufatto>	
+reperti.not	coppa con superficie grigia lucidata/<manufatto>	
+reperti.not	punte a sezione quadrata/<manufatto>	
+reperti.not	orlo di coppa a bocca/<parte><manufatto>	
+reperti.not	orlo di coppa a bocca nera/<parte><manufatto>	
+reperti.not	coppa a bocca/<manufatto>	
+reperti.not	coppa a bocca nera/<manufatto>	
+reperti.not	punte lungo l/<manufatto>	
+reperti.not	punte lungo/<manufatto>	
+reperti.not	orlo di coppa a impasto/<parte><manufatto>	
+reperti.not	orlo di coppa a impasto micaceo/<parte><manufatto>	
+reperti.not	orlo di coppa a impasto/<parte><manufatto>>	
+reperti.not	orlo di coppa a impasto micaceo/<parte><manufatto>>	
+reperti.not	coppa a impasto/<manufatto>	
+reperti.not	coppa a impasto micaceo/<manufatto>	
+reperti.not	coppa a impasto/<manufatto>>	
+reperti.not	coppa a impasto micaceo/<manufatto>>	
+reperti.not	geometrici riempiti/<manufatto>	
+reperti.not	geometrici riempiti da impressioni/<manufatto>	
+reperti.not	geometrici riempiti da impressioni che/<manufatto>	
+reperti.not	orlo di fiasca/<parte><manufatto>	
+reperti.not	orlo di fiasca marrone/<parte><manufatto>	
+reperti.not	fiasca marrone/<manufatto>	
+reperti.not	vaso secondo la/<manufatto>	
+reperti.not	vaso secondo la tecnica/<manufatto>	
+reperti.not	orlo di coppa in impasto/<parte><manufatto>	
+reperti.not	orlo di coppa in impasto marrone/<parte><manufatto>	
+reperti.not	orlo di coppa in impasto/<parte><manufatto>>	
+reperti.not	orlo di coppa in impasto marrone/<parte><manufatto>>	
+reperti.not	orlo di coppa in/<parte><manufatto>	
+reperti.not	coppa in impasto/<manufatto>	
+reperti.not	coppa in impasto marrone/<manufatto>	
+reperti.not	coppa in impasto/<manufatto>>	
+reperti.not	coppa in impasto marrone/<manufatto>>	
+reperti.not	coppa in/<manufatto>	
+reperti.not	bottiglia in impasto/<manufatto>	
+reperti.not	bottiglia in impasto grigio/<manufatto>	
+reperti.not	bottiglia in impasto/<manufatto>>	
+reperti.not	bottiglia in impasto grigio/<manufatto>>	
+reperti.not	bottiglia in/<manufatto>	
+reperti.not	orlo di coppa in impasto marrone micaceo/<parte><manufatto>	
+reperti.not	orlo di coppa in impasto marrone micaceo/<parte><manufatto>>	
+reperti.not	coppa in impasto marrone micaceo/<manufatto>	
+reperti.not	coppa in impasto marrone micaceo/<manufatto>>	
+reperti.not	orlo di coppa a bocca nera in/<parte><manufatto>	
+reperti.not	coppa a bocca nera in/<manufatto>	
+reperti.not	coppe/<manufatto>	
+reperti.not	coppe a bocca/<manufatto>	
+reperti.not	coppe a bocca nera/<manufatto>	
+reperti.not	orlo di coppa con superfici marroni/<parte><manufatto>	
+reperti.not	orlo di coppa con superfici marroni lisciate/<parte><manufatto>	
+reperti.not	coppa con superfici marroni/<manufatto>	
+reperti.not	coppa con superfici marroni lisciate/<manufatto>	
+reperti.not	ciotole/<manufatto>	
+reperti.not	vaso a decorazione/<manufatto>	
+reperti.not	vaso grigio/<manufatto>	
+reperti.not	vaso grigio a superfici/<manufatto>	
+reperti.not	vaso grigio a superfici lucidate/<manufatto>	
+reperti.not	pettine evidenziate/<manufatto>	
+reperti.not	pettine evidenziate da pasta/<manufatto>	
+reperti.not	pettine evidenziate da pasta colorante/<manufatto>	
+reperti.not	pettine evidenziate da pasta colorante rossa/<manufatto>	
+reperti.not	orlo di coppa a decorazione/<parte><manufatto>	
+reperti.not	orlo di coppa a decorazione incisa/<parte><manufatto>	
+reperti.not	coppa a decorazione/<manufatto>	
+reperti.not	coppa a decorazione incisa/<manufatto>	
+reperti.not	orlo di coppa grigia/<parte><manufatto>	
+reperti.not	orlo di coppa grigia con superfici/<parte><manufatto>	
+reperti.not	orlo di coppa grigia con superfici lucidate/<parte><manufatto>	
+reperti.not	coppa grigia/<manufatto>	
+reperti.not	coppa grigia con superfici/<manufatto>	
+reperti.not	coppa grigia con superfici lucidate/<manufatto>	
+reperti.not	vaso a impasto/<manufatto>	
+reperti.not	vaso a impasto marrone/<manufatto>	
+reperti.not	vaso a impasto marrone micaceo/<manufatto>	
+reperti.not	vaso a impasto/<manufatto>>	
+reperti.not	vaso a impasto marrone/<manufatto>>	
+reperti.not	vaso a impasto marrone micaceo/<manufatto>>	
+reperti.not	vasi/<manufatto>	
+reperti.not	vasi simili/<manufatto>	
+reperti.not	orlo di ciotola a decorazione/<parte><manufatto>	
+reperti.not	orlo di ciotola a decorazione incisa/<parte><manufatto>	
+reperti.not	ciotola a decorazione/<manufatto>	
+reperti.not	ciotola a decorazione incisa/<manufatto>	
+reperti.not	orlo di ciotola a impasto/<parte><manufatto>	
+reperti.not	orlo di ciotola a impasto grigio/<parte><manufatto>	
+reperti.not	orlo di ciotola a impasto grigio micaceo/<parte><manufatto>	
+reperti.not	orlo di ciotola a impasto/<parte><manufatto>>	
+reperti.not	orlo di ciotola a impasto grigio/<parte><manufatto>>	
+reperti.not	orlo di ciotola a impasto grigio micaceo/<parte><manufatto>>	
+reperti.not	ciotola a impasto/<manufatto>	
+reperti.not	ciotola a impasto grigio/<manufatto>	
+reperti.not	ciotola a impasto grigio micaceo/<manufatto>	
+reperti.not	ciotola a impasto/<manufatto>>	
+reperti.not	ciotola a impasto grigio/<manufatto>>	
+reperti.not	ciotola a impasto grigio micaceo/<manufatto>>	
+reperti.not	orlo di olla/<parte><manufatto>	
+reperti.not	olla/<manufatto>	
+reperti.not	orlo di olla in argilla/<parte><manufatto>	
+reperti.not	orlo di olla in argilla marnosa/<parte><manufatto>	
+reperti.not	orlo di olla in argilla/<parte><manufatto>>	
+reperti.not	orlo di olla in argilla marnosa/<parte><manufatto>>	
+reperti.not	orlo di olla in/<parte><manufatto>	
+reperti.not	olla in argilla/<manufatto>	
+reperti.not	olla in argilla marnosa/<manufatto>	
+reperti.not	olla in argilla/<manufatto>>	
+reperti.not	olla in argilla marnosa/<manufatto>>	
+reperti.not	olla in/<manufatto>	
+reperti.not	vaso in argilla/<manufatto>	
+reperti.not	vaso in argilla/<manufatto>>	
+reperti.not	vaso in/<manufatto>	
+reperti.not	Accetta/<manufatto>	
+reperti.not	Accetta in pietra/<manufatto>	
+reperti.not	Accetta in pietra metamorfica/<manufatto>	
+reperti.not	Accetta in pietra/<manufatto>>	
+reperti.not	Accetta in pietra metamorfica/<manufatto>>	
+reperti.not	Accetta in/<manufatto>	
+reperti.not	accette/<manufatto>	
+reperti.not	Gruppo del Butana/gruppo>	
+reperti.not	Bracciale/<manufatto>	
+reperti.not	Bracciale in conchiglia/<manufatto>	
+reperti.not	Bracciale in conchiglia/<manufatto>>	
+reperti.not	Bracciale in/<manufatto>	
+reperti.not	bracciale/<manufatto>	
+reperti.not	bracciali/<manufatto>	
+reperti.not	Testa/<manufatto>	
+reperti.not	Testa di bovino/<manufatto>	
+reperti.not	Testa di bovino in/<manufatto>	
+reperti.not	Testa di bovino in arenaria/<manufatto>	
+reperti.not	teste/<manufatto>	
+reperti.not	teste di bovini/<manufatto>	
+reperti.not	teste di buoi/<manufatto>	
+reperti.not	Corno/<manufatto>	
+reperti.not	Corno destro/<manufatto>	
+reperti.not	Corno destro danneggiato/<manufatto>	
+reperti.not	Cerchio/<manufatto>	
+reperti.not	Corno sinistro/<manufatto>	
+reperti.not	Corno sinistro danneggiato/<manufatto>	
+reperti.not	Ascia/<manufatto>	
+reperti.not	Ascia in sienite/<manufatto>	
+reperti.not	Ascia in/<manufatto>	
+reperti.not	asce/<manufatto>	
+reperti.not	asce in pietra/<manufatto>	
+reperti.not	asce in pietra/<manufatto>>	
+reperti.not	asce in/<manufatto>	
+reperti.not	ciottoli/<manufatto>	
+reperti.not	schegge/<manufatto>	
+reperti.not	schegge di pietra/<manufatto>	
+reperti.not	schegge di pietra/<manufatto>>	
+reperti.not	strumenti/<manufatto>	
+reperti.not	peso/<manufatto>	
+sculture_india.not	supporto/<manufatto>	
+sculture_india.not	base di petali/<manufatto>	
+sculture_india.not	Frammento di stele/<parte><manufatto>	
+sculture_india.not	Frammento di stele visnuita/<parte><manufatto>	
+sculture_india.not	stele/<manufatto>	
+sculture_india.not	stele visnuita/<manufatto>	
+sculture_india.not	stele con l/<manufatto>	
+sculture_india.not	flabello/<manufatto>	
+sculture_india.not	mazza/<manufatto>	
+sculture_india.not	abaco/<manufatto>	
+sculture_india.not	Frammento di cornice/<parte><manufatto>	
+sculture_india.not	cornice divisoria/<manufatto>	
+sculture_india.not	cornice divisoria a riquadri/<manufatto>	
+sculture_india.not	cornice divisoria a riquadri sovrapposti/<manufatto>	
+sculture_india.not	cornice divisoria a riquadri sovrapposti che/<manufatto>	
+sculture_india.not	mazza di grandi/<manufatto>	
+sculture_india.not	mazza di grandi dimensioni/<manufatto>	
+sculture_india.not	stele a forma/<manufatto>	
+sculture_india.not	capitello/<manufatto>	
+sculture_india.not	capitello fogliato/<manufatto>	
+sculture_india.not	trono/<manufatto>	
+sculture_india.not	trono decorato/<manufatto>	
+sigilli.not	Sigillo/<manufatto>	
+sigilli.not	Sigillo cilindrico/<manufatto>	
+sigilli.not	sigillo/<manufatto>	
+sigilli.not	mazza a triplice/<manufatto>	
+sigilli.not	mazza a triplice testa/<manufatto>	
+sigilli.not	testa di leone/<manufatto>	
+sigilli.not	disco/<manufatto>	
+sigilli.not	disco solare/<manufatto>	
+sigilli.not	ascia/<manufatto>	
+sigilli.not	posata/<manufatto>	
+sigilli.not	supporto perduto/<manufatto>	
+sigilli.not	arma/<manufatto>	
+sigilli.not	arma con lama/<manufatto>	
+sigilli.not	arma con lama ricurva/<manufatto>	
+sigilli.not	lama/<manufatto>	
+sigilli.not	lama ricurva/<manufatto>	
+sigilli.not	falce/<manufatto>	
+sigilli.not	falce lunare/<manufatto>	
+sigilli.not	base inferiore/<manufatto>	
+sigilli.not	falci/<manufatto>	
+sigilli.not	falci lunari/<manufatto>	
+sigilli.not	mazza che/<manufatto>	
+sigilli.not	mazza ricurva/<manufatto>	
+sigilli.not	punta/<manufatto>	
+sigilli.not	freccia/<manufatto>	
+sigilli.not	fregio/<manufatto>	
+sigilli.not	fregio a tratti/<manufatto>	
+sigilli.not	fregio a tratti diagonali/<manufatto>	
+sigilli.not	fregio a tratti diagonali che/<manufatto>	
+sigilli.not	sigilli/<manufatto>	
+sigilli.not	sigilli ritrovati/<manufatto>	
+sigilli.not	ascia in mano/<manufatto>	
+sigilli.not	ascia in/<manufatto>	
+sigilli.not	testa rivolta/<manufatto>	
+sigilli.not	testa umana/<manufatto>	
+sigilli.not	testa umana barbata/<manufatto>	
+sigilli.not	Falce/<manufatto>	
+sigilli.not	Falce lunare/<manufatto>	
+sigilli.not	Falce lunare in campo/<manufatto>	
+sigilli.not	Falce lunare in/<manufatto>	
+sigilli.not	arco/<manufatto>	
+sigilli.not	Sigillo a stampo/<manufatto>	
+sigilli.not	Sigillo a stampo piramidale/<manufatto>	
+sigilli.not	stampo piramidale/<manufatto>	
+sigilli.not	altare/<manufatto>	
+sigilli.not	stampo piramidale con legatura/<manufatto>	
+sigilli.not	stampo piramidale con legatura in/<manufatto>	
+sigilli.not	filo/<manufatto>	
+sigilli.not	filo di bronzo/<manufatto>	
+sigilli.not	filo di bronzo/<manufatto>>	
+sigilli.not	base costituita/<manufatto>	
+sigilli.not	base costituita da due/<manufatto>	
+sigilli.not	mazza terminante/<manufatto>	
+sigilli.not	mazza terminante con globo/<manufatto>	
+sigilli.not	Sigillo a stampo conoide/<manufatto>	
+sigilli.not	stampo conoide/<manufatto>	
+sigilli.not	Stampo/<manufatto>	
+sigilli.not	Stampo ellissoidale/<manufatto>	
+sigilli.not	Sigillo a stampo ellissoidale/<manufatto>	
+sigilli.not	stampo ellissoidale/<manufatto>	
+steli.not	Stele/<manufatto>	
+steli.not	Stele funeraria/<manufatto>	
+steli.not	Stele funeraria in marmo/<manufatto>	
+steli.not	Stele funeraria in marmo/<manufatto>>	
+steli.not	Stele funeraria in/<manufatto>	
+steli.not	cornice rettangolare/<manufatto>	
+steli.not	cornice rettangolare incisa/<manufatto>	
+steli.not	cornice incisa/<manufatto>	
+steli.not	cornice scolpita/<manufatto>	
+steli.not	cornice scolpita in bassorilievo/<manufatto>	
+steli.not	cornice scolpita in/<manufatto>	
+steli.not	cornici/<manufatto>	
+steli.not	cornici concentriche/<manufatto>	
+steli.not	cornici concentriche rettangolari/<manufatto>	
+steli.not	cornici concentriche rettangolari in/<manufatto>	
+steli.not	cornice interna/<manufatto>	
+steli.not	Stele rettangolare/<manufatto>	
+steli.not	Stele rettangolare con una/<manufatto>	
+steli.not	Stele rettangolare con una lieve/<manufatto>	
+steli.not	cornice in rilievo/<manufatto>	
+steli.not	cornice in rilievo che/<manufatto>	
+steli.not	cornice in/<manufatto>	
+steli.not	rilievo che/<manufatto>	
