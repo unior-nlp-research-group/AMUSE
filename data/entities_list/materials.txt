@@ -1,0 +1,22 @@
+piombo/<materiale>>	
+Bronzo/<materiale>>	
+argento/<materiale>>	
+Rame/<materiale>>	
+stagno/<materiale>>	
+argilla/<materiale>>	
+conchiglia/<materiale>>	
+arenaria/<materiale>>	
+oro/<materiale>>		
+legno/<materiale>>	
+Marmo/<materiale>>		
+Steatite/<materiale>>	
+Ematite/<materiale>>	
+Pietra calcarea/<materiale>>		
+Agata/<materiale>>	
+Cristallo di rocca/<materiale>>	
+Pasta vitrea/<materiale>>	
+Quarzo/<materiale>>	
+diaspro/<materiale>>	
+corniola/<materiale>>		
+onice/<materiale>>	
+	
