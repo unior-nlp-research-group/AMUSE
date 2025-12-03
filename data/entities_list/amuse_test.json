@@ -1,17 +1,29 @@
 {
-  "Nanna-Su'en": "Chiamato anche divina falce di luna, era il dio della luna nella mitologia babilonese, protettore del ciclo lunare e degli elementi naturali a esso connessi, e anche considerato protettore dei pastori.",
-  "Neosumerico": "L'età neo-sumerica è una fase della storia della Mesopotamia (collocata intorno alla fine del III millennio a.C.) che vede, dopo l'egemonia accadica, un ritorno di iniziativa da parte delle città di Sumer (Bassa Mesopotamia).",
-  "Crescente Lunare": "Nell'archeologia assiro-babilonese, il crescente lunare non è un oggetto, ma un concetto astronomico e religioso. Il dio della luna, Sin (o Nanna in sumero), era la divinità principale, rappresentato come una divina falce di luna e protettore del ciclo lunare e degli elementi naturali. I Babilonesi utilizzavano queste conoscenze astronomiche per la predizione, come testimoniato da tavolette che documentano l'applicazione della matematica ai cicli lunari.",
-  "Sigillo cilindrico": "I sigilli erano considerati amuleti e perciò indossati come ciòndoli, talvolta incastonati in preziose montature, sospesi a cordicelle. Avevano iscrizioni contenenti il nome e il ruolo o la funzione di coloro che li possedevano o li usavano; o iscrizioni dedicatorie agli dèi o al sovrano o, ancora, formule benauguranti o preghiere.",
-  "Zu":"Anche conosciuto come Anzû, è la personificazione della potenza del vento di tempesta e la causa dei temporali; rappresentato in modo simile ad un grifone o ad una gigantesca aquila dalla testa leonina, l'apertura alare ricordava la spessa e minacciosa nube che ricopre il cielo annunciando l'arrivo di una tempesta.",
-  "Teste di buoi": "Le teste di buoi potrebbero aver avuto un uso cerimoniale e suggerire che i bovini avessero un’importanza simbolica per gli abitanti della regione",
-  "Monete aksoumite": "Aksum è stato il primo stato dell’Africa subsahariana a coniare moneta in oro, argento e bronzo.",
-  "Gadādevī": "Personificazione dell’arma di offesa – una pesante mazza – che il dio regge con la mano inferiore destra (suo pendant a sinistra è Cakrapuruṣa, personificazion edel cakra, il tagliente disco da lanciare contro gli avversari che il dio regge nella mano inferiore sinistra)",
-  "Epitaffio": "Tutti gli epitaffi hanno inizio con la basmala– la formula introduttiva in cui si precisa che ogni cosa è resa possibile ‘nel nome di Dio, Clemente e Misericordioso’ e terminano con la data del decesso o con una breve invocazione a Dio. Gli altri elementi del formulario non occupano una posizione precisa e possonoricorrere anche più di una volta",
-  "libagione":"Nell'antichità la libagione era la cerimonia dello spargimento rituale del vino, di una bevanda, di un liquido alimentare, o di un'essenza, per terra o su particolari siti o oggetti, come un altare, una stele o un manufatto, quale atto di offerta alla divinità, ad altre entità non terrene o a defunti.",
-  "glittica":"La glittica è l'arte dell'incisione di gemme e pietre dure. In senso lato è anche lo studio dei prodotti di tali arte: cammei, sigilli (in pietra), intagli, statuette e altri piccoli oggetti.",
-  "Amm Adam Station 1" : "Si trova nel delta settentrionale del fiume Gash.",
-  "Gash" : "Il Gash è la parte finale del fiume Mareb. Il Mareb è un fiume dell'Africa Orientale. Il suo corso è di 680 km che sono in gran parte compresi nei confini dell'Eritrea. Nel Mareb si distinguono tre parti: La prima, lunga 175 km dalle sorgenti fino alla località Arakebou, prende il nome di Mareb. Questa parte ha acqua in tutte le stagioni dell'anno, sia pure in quantità non elevata. La seconda parte, di 240 km attraversa il territorio dei Cunama ed è chiamato Sonà ed è già un fiume temporaneo. La terza parte, finale, prende il nome di Gasc (o Gash) e termina nella pianura del Sudan. In questo tratto le acque superficiali sono visibili soltanto da giugno a settembre in coincidenza delle grandi piogge sull'altopiano.",
-  "a bocca nera": "Il trattamento ‘a bocca nera’ prevede l’annerimento della superficie interna e di una banda lungo l’orlo. Tale trattamento, noto in Egitto fin dal V millennio a.C., fu popolare in Nubia fino agli inizi del I millennio a.C. e in Etiopia fino alla seconda metà del I millennio a.C.",
-  "finger nail": "Decorazione ottenuta dall’impressione delle unghie del vasaio.",
+  "Mitologia": {
+    "Nanna-Su'en": "Chiamato anche divina falce di luna, era il dio della luna nella mitologia babilonese, protettore del ciclo lunare e degli elementi naturali a esso connessi, e anche considerato protettore dei pastori.",
+    "Zu": "Anche conosciuto come Anzû, è la personificazione della potenza del vento di tempesta e la causa dei temporali; rappresentato in modo simile ad un grifone o ad una gigantesca aquila dalla testa leonina, l'apertura alare ricordava la spessa e minacciosa nube che ricopre il cielo annunciando l'arrivo di una tempesta.",
+    "Gadādevī": "Personificazione dell’arma di offesa – una pesante mazza – che il dio regge con la mano inferiore destra (suo pendant a sinistra è Cakrapuruṣa, personificazion del cakra, il tagliente disco da lanciare contro gli avversari che il dio regge nella mano inferiore sinistra)"
+  },
+  "Storia e Archeologia": {
+    "Neosumerico": "L'età neo-sumerica è una fase della storia della Mesopotamia (collocata intorno alla fine del III millennio a.C.) che vede, dopo l'egemonia accadica, un ritorno di iniziativa da parte delle città di Sumer (Bassa Mesopotamia).",
+    "Crescente Lunare": "Nell'archeologia assiro-babilonese, il crescente lunare non è un oggetto, ma un concetto astronomico e religioso. Il dio della luna, Sin (o Nanna in sumero), era la divinità principale, rappresentato come una divina falce di luna e protettore del ciclo lunare e degli elementi naturali. I Babilonesi utilizzavano queste conoscenze astronomiche per la predizione, come testimoniato da tavolette che documentano l'applicazione della matematica ai cicli lunari.",
+    "Sigillo cilindrico": "I sigilli erano considerati amuleti e perciò indossati come ciondoli, talvolta incastonati in preziose montature, sospesi a cordicelle. Avevano iscrizioni contenenti il nome e il ruolo o la funzione di coloro che li possedevano o li usavano; o iscrizioni dedicatorie agli dèi o al sovrano o, ancora, formule benauguranti o preghiere.",
+    "Teste di buoi": "Le teste di buoi potrebbero aver avuto un uso cerimoniale e suggerire che i bovini avessero un’importanza simbolica per gli abitanti della regione",
+    "glittica": "La glittica è l'arte dell'incisione di gemme e pietre dure. In senso lato è anche lo studio dei prodotti di tale arte: cammei, sigilli (in pietra), intagli, statuette e altri piccoli oggetti."
+  },
+  "Numismatica": {
+    "Monete aksoumite": "Aksum è stato il primo stato dell’Africa subsahariana a coniare moneta in oro, argento e bronzo."
+  },
+  "Rituali e Cerimonie": {
+    "Epitaffio": "Tutti gli epitaffi hanno inizio con la basmala– la formula introduttiva in cui si precisa che ogni cosa è resa possibile ‘nel nome di Dio, Clemente e Misericordioso’ e terminano con la data del decesso o con una breve invocazione a Dio. Gli altri elementi del formulario non occupano una posizione precisa e possono ricorrere anche più di una volta",
+    "libagione": "Nell'antichità la libagione era la cerimonia dello spargimento rituale del vino, di una bevanda, di un liquido alimentare, o di un'essenza, per terra o su particolari siti o oggetti, come un altare, una stele o un manufatto, quale atto di offerta alla divinità, ad altre entità non terrene o a defunti."
+  },
+  "Geografia": {
+    "Amm Adam Station 1": "Si trova nel delta settentrionale del fiume Gash.",
+    "Gash": "Il Gash è la parte finale del fiume Mareb. Il Mareb è un fiume dell'Africa Orientale. Il suo corso è di 680 km che sono in gran parte compresi nei confini dell'Eritrea. Nel Mareb si distinguono tre parti: La prima, lunga 175 km dalle sorgenti fino alla località Arakebou, prende il nome di Mareb. Questa parte ha acqua in tutte le stagioni dell'anno, sia pure in quantità non elevata. La seconda parte, di 240 km attraversa il territorio dei Cunama ed è chiamato Sonà ed è già un fiume temporaneo. La terza parte, finale, prende il nome di Gasc (o Gash) e termina nella pianura del Sudan. In questo tratto le acque superficiali sono visibili soltanto da giugno a settembre in coincidenza delle grandi piogge sull'altopiano."
+  },
+  "Arte e Decorazione": {
+    "a bocca nera": "Il trattamento ‘a bocca nera’ prevede l’annerimento della superficie interna e di una banda lungo l’orlo. Tale trattamento, noto in Egitto fin dal V millennio a.C., fu popolare in Nubia fino agli inizi del I millennio a.C. e in Etiopia fino alla seconda metà del I millennio a.C.",
+    "finger nail": "Decorazione ottenuta dall’impressione delle unghie del vasaio."
+  }
 }
